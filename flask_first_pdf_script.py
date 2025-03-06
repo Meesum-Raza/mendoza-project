@@ -28,7 +28,7 @@ options.add_experimental_option("useAutomationExtension", False)
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 
 # Your 2captcha API key
-api_key = '60deff821f12d0ac054bd3da75b38332'  # Replace with your 2Captcha API key
+api_key = '2captcha_api_key'  # Replace with your 2Captcha API key
 
 
 # Function to solve CAPTCHA
