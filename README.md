@@ -63,7 +63,7 @@ python app.py
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Panteragpt.
 
 ## Author
 Your Name - [GitHub Profile](https://github.com/Meesum-Raza)
