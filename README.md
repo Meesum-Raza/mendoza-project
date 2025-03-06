@@ -1,4 +1,4 @@
-# Flask Selenium CAPTCHA Solver API
+# Flask SAT Mendoza Project
 
 ## Overview
 This is a Flask-based API that automates login and PDF retrieval from the SAT (Servicio de Administración Tributaria) website using Selenium. It also solves CAPTCHAs using the 2Captcha service.
