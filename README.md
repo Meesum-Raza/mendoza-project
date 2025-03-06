@@ -66,5 +66,5 @@ python app.py
 This project is licensed under the Panteragpt.
 
 ## Author
-Your Name - [GitHub Profile](https://github.com/Meesum-Raza)
+Meesum Naqvi - [GitHub Profile](https://github.com/Meesum-Raza)
 
