@@ -33,11 +33,13 @@ pip install -r requirements.txt
 ## Usage
 ### Run the Flask Server
 ```sh
-python app.py
+python flask_first_pdf_script.py
+python flask_second_pdf_script.py
 ```
 
 ### API Endpoint
 #### `POST /get_pdf`
+#### `POST /get_second_pdf`
 **Request Body (JSON):**
 ```json
 {
